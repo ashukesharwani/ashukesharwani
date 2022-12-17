@@ -1,7 +1,4 @@
 
-<!--
-**ashukesharwani/ashukesharwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
-
 <h3>About Me</h3>
 
 <p>- 🌱 I’m currently learning **GAN** </p>
@@ -10,7 +7,7 @@
 
 <p>- 📫 How to reach me **ashukesharwani07768@gmail.com**</p>
 
-//for the gmail and linkdin button
+<!-- for the gmail and linkdin button --> 
 <div id="badges", align="center">
    <a href="mailto:ashukesharwani07768@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
