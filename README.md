@@ -7,7 +7,7 @@
 <p>- 📫 How to reach me **ashukesharwani07768@gmail.com**</p>
 </div>
 
-<h1> 🔍  Where to find me </h1>
+<h3> 🔍  Where to find me </h3>
 <!-- for the gmail and linkdin button --> 
 <div id="badges", align="center">
    <a href="mailto:ashukesharwani07768@gmail.com">
@@ -20,10 +20,10 @@
 </div>
 
 <!-- My programming knowledge -->
-<h1>🛠  Technologies and tools</h1>
+<h3>🛠  Technologies and tools</h3>
 
 
-<h1>📖  What I am currently learning / improving on</h1>
+<h3>📖  What I am currently learning / improving on</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
