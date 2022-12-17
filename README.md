@@ -1,14 +1,14 @@
 
 <!--
 **ashukesharwani/ashukesharwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
-<h1 align="center">Hi 👋, I'm Ashutosh Kesharwani</h1>
-<h3 align="center">A passionate frontend DataScientist from India</h3>
 
-- 🌱 I’m currently learning **GAN**
+<h4>About me</h4>
 
-- 💬 Ask me about **DataScience**
+<p>- 🌱 I’m currently learning **GAN** </p>
 
-- 📫 How to reach me **ashukesharwani07768@gmail.com**
+<p>- 💬 Ask me about **DataScience**</p>
+
+<p>- 📫 How to reach me **ashukesharwani07768@gmail.com**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
