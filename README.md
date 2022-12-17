@@ -2,13 +2,23 @@
 <!--
 **ashukesharwani/ashukesharwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
 
-<h4>About me</h4>
+<h3>About Me</h3>
 
 <p>- 🌱 I’m currently learning **GAN** </p>
 
 <p>- 💬 Ask me about **DataScience**</p>
 
 <p>- 📫 How to reach me **ashukesharwani07768@gmail.com**</p>
+
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ 
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
