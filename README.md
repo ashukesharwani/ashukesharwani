@@ -1,7 +1,12 @@
 
 <!--About me -->
-<h3><IMG SRC="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" style="width:48px;height:48px;">About Me </h3>
-<div id= aboutme>
+<h3><IMG SRC="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" style="width:48px;height:48px;">About Me </h3> 
+
+
+   
+   
+
+<div id= "aboutme">
 <p>- 🌱 I’m currently learning **GAN** </p>
 <p>- 💬 Ask me about **DataScience**</p>
 <p>- 📫 How to reach me **ashukesharwani07768@gmail.com**</p>
@@ -19,11 +24,23 @@
   </a>
 </div>
 
+  
 <!-- My programming knowledge -->
-<h3>🛠  Technologies and tools</h3>
+<details>
+<summary><h3>🛠  Technologies and tools</h3></summary>
+<br>
+This is how you dropdown.
+</details>
 
 
-<h3>📖  What I am currently learning / improving on</h3>
+<!-- Currently working -->
+<details>
+<summary><h3>📖  What I am currently learning / improving on</h3></summary>
+<br>
+This is how you dropdown.
+</details>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
