@@ -10,13 +10,14 @@
 
 <p>- 📫 How to reach me **ashukesharwani07768@gmail.com**</p>
 
-<div id="badges">
+//for the gmail and linkdin button
+<div id="badges", align="center">
+   <a href="mailto:ashukesharwani07768@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+
   <a href="https://in.linkedin.com/in/ashukesharwani">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
- 
-  <a href="mailto:ashukesharwani07768@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 
