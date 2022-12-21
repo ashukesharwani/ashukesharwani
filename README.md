@@ -4,7 +4,6 @@
 
 
    
-   
 
 <div id= "aboutme">
 <p>- 🌱 I’m currently learning **GAN** </p>
@@ -30,9 +29,8 @@
 <summary><h3>🛠  Technologies and tools</h3></summary>
 <br>
 <p align="left" > 
-   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="width:100px;height:100px;" /> </a>
-   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" alt="Visual Studio Code 1.35 icon" width="40" height="40"style="width:100px;height:100px;"/> </a> 
-   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"style="width:100px;height:100px;"/> </a>
+   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://media0.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e47mnqqjpv99iowprnl8spa0lvcq1o7opkbp0em67tk&rid=giphy.gif&ct=g" alt="python" width="100" height="100" style="width:100px;height:100px;" /> </a>
+   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://media3.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif?cid=ecf05e47wvi9hpsrj2z148m6nn6g4gp38z7vaxvr7apxbh7q&rid=giphy.gif&ct=g" alt="Visual Studio Code 1.35 icon" width="100" height="100"style="width:100px;height:100px;"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"style="width:100px;height:100px;"/> </a>
    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"style="width:100px;height:100px;"/> </a>
    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"style="width:100px;height:100px;"/> </a>
    <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg" alt="Keras Logo" width="40" height="40"style="width:100px;height:100px;"/> </a>  
