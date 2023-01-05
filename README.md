@@ -8,7 +8,6 @@
 <div id= "aboutme">
 <p>- 🌱 I’m currently learning **GAN** </p>
 <p>- 💬 Ask me about **DataScience**</p>
-<p>- 📫 How to reach me **ashukesharwani07768@gmail.com**</p>
 </div>
 
 <h3> 🔍  Where to find me </h3>
